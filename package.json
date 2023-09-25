@@ -17,7 +17,8 @@
     "classnames": "^2.2.6",
     "eve": "~0.5.1",
     "prop-types": "^15.7.2",
-    "snapsvg-cjs": "0.0.6"
+    "snapsvg-cjs": "0.0.6",
+    "react-burger-menu": "^3.0.9"
   },
   "devDependencies": {
     "acorn": "^6.3.0",
